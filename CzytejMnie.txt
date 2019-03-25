@@ -1,5 +1,0 @@
-﻿1) Wypakować se do /home/cośtam
-
-2) W gplot.sh podmienić se na /home/cośtam
-
-3) ./frac
